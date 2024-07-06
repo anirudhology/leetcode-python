@@ -7,3 +7,4 @@ LeetCode solutions in Python
 | Problem ID | Problem Name       | Solution Source                                  | Difficulty | Tag            |
 |------------|--------------------|--------------------------------------------------|------------|----------------|
 | 217        | Contains Duplicate | [Solution](problems/array/contains_duplicate.py) | Easy       | Array, Hashing |
+| 242        | Valid Anagram      | [Solution](problems/string/valid_anagram.py)     | Easy       | String         |
