@@ -1,6 +1,6 @@
 import unittest
 
-from problems.arrays.contains_duplicate import ContainsDuplicate
+from problems.array.contains_duplicate import ContainsDuplicate
 
 
 class ContainsDuplicateTest(unittest.TestCase):
