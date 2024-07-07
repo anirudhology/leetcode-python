@@ -6,5 +6,6 @@ LeetCode solutions in Python
 
 | Problem ID | Problem Name       | Solution Source                                  | Difficulty | Tag            |
 |------------|--------------------|--------------------------------------------------|------------|----------------|
+| 1          | Two Sum            | [Solution](problems/array/two_sum.py)            | Easy       | Array, Hashing |
 | 217        | Contains Duplicate | [Solution](problems/array/contains_duplicate.py) | Easy       | Array, Hashing |
 | 242        | Valid Anagram      | [Solution](problems/string/valid_anagram.py)     | Easy       | String         |
