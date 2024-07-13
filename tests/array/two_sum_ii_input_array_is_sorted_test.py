@@ -3,7 +3,7 @@ import unittest
 from problems.array.two_sum_ii_input_array_is_sorted import TwoSumIIInputArrayIsSorted
 
 
-class TestTwoSumIIInputArrayIsSorted(unittest.TestCase):
+class TwoSumIIInputArrayIsSortedTest(unittest.TestCase):
 
     def test_two_sum(self):
         two_sum_ii_input_array_is_sorted = TwoSumIIInputArrayIsSorted()

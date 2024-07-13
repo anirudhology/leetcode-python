@@ -11,15 +11,15 @@ class TwoSumIIInputArrayIsSorted:
         # Left and right pointers
         left, right = 0, len(numbers) - 1
         # Array to store final result
-        result = [0] * 2
+        result = [None] * 2
         # Process the array from both ends
         while left <= right:
-            sum = numbers[left] + numbers[right]
-            if sum == target:
+            triplet_sum = numbers[left] + numbers[right]
+            if triplet_sum == target:
                 result[0] = left + 1
                 result[1] = right + 1
                 break
-            elif sum < target:
+            elif triplet_sum < target:
                 left += 1
             else:
                 right -= 1
