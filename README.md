@@ -9,8 +9,9 @@ LeetCode solutions in Python
 | 1          | Two Sum                            | [Solution](problems/array/two_sum.py)                          | Easy       | Array, Hashing               |
 | 11         | Container With Most Water          | [Solution](problems/array/container_with_most_water.py)        | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                              | [Solution](problems/array/three_sum.py)                        | Medium     | Array, Sorting, Two Pointers |
+| 20         | Valid Parentheses                  | [Solution](problems/stack/valid_parentheses.py)                | Easy       | Stack                        |
 | 36         | Valid Sudoku                       | [Solution](problems/array/valid_sudoku.py)                     | Medium     | Array, Hashing               |
-| 42         | Trapping Rain Water                | [Solution](problems/array/trapping_rain_water.py)              | Medium     | Array, Two Pointers          |
+| 42         | Trapping Rain Water                | [Solution](problems/array/trapping_rain_water.py)              | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                     | [Solution](problems/string/group_anagrams.py)                  | Medium     | String, Hashing              |
 | 125        | Valid Palindrome                   | [Solution](problems/string/valid_palindrome.py)                | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](problems/array/longest_consecutive_sequence.py)     | Medium     | Array, Hashing               |
