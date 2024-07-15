@@ -15,6 +15,7 @@ LeetCode solutions in Python
 | 49         | Group Anagrams                     | [Solution](problems/string/group_anagrams.py)                  | Medium     | String, Hashing              |
 | 125        | Valid Palindrome                   | [Solution](problems/string/valid_palindrome.py)                | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](problems/array/longest_consecutive_sequence.py)     | Medium     | Array, Hashing               |
+| 150        | Evaluate Reverse Polish Notation   | [Solution](problems/stack/evaluate_reverse_polish_notation.py) | Medium     | Stack                        |
 | 155        | Min Stack                          | [Solution](problems/stack/min_stack.py)                        | Medium     | Stack, Design                |
 | 167        | Two Sum II - Input Array Is Sorted | [Solution](problems/array/two_sum_ii_input_array_is_sorted.py) | Medium     | Array, Two Pointers          |
 | 217        | Contains Duplicate                 | [Solution](problems/array/contains_duplicate.py)               | Easy       | Array, Hashing               |
