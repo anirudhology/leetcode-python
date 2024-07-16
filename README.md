@@ -24,3 +24,4 @@ LeetCode solutions in Python
 | 242        | Valid Anagram                      | [Solution](problems/string/valid_anagram.py)                   | Easy       | String                       |
 | 271        | Encode And Decode Strings          | [Solution](problems/string/encode_and_decode_strings.py)       | Medium     | String                       |
 | 347        | Top K Frequent Elements            | [Solution](problems/array/top_k_frequent_elements.py)          | Medium     | Array, Bucket Sort           |
+| 739        | Daily Temperatures                 | [Solution](problems/stack/daily_temperatures.py)               | Medium     | Stack, Monotonic Stack       |
