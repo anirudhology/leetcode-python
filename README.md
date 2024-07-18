@@ -14,6 +14,7 @@ LeetCode solutions in Python
 | 36         | Valid Sudoku                       | [Solution](problems/array/valid_sudoku.py)                     | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                | [Solution](problems/array/trapping_rain_water.py)              | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                     | [Solution](problems/string/group_anagrams.py)                  | Medium     | String, Hashing              |
+| 74         | Search A 2D Matrix                 | [Solution](problems/binary_search/search_a_2d_matrix.py)       | Medium     | Binary Search                |
 | 84         | Largest Rectangle In Histogram     | [Solution](problems/stack/largest_rectangle_in_histogram.py)   | Hard       | Stack, Monotonic Stack       |
 | 125        | Valid Palindrome                   | [Solution](problems/string/valid_palindrome.py)                | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](problems/array/longest_consecutive_sequence.py)     | Medium     | Array, Hashing               |
