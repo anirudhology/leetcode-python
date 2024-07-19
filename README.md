@@ -29,3 +29,4 @@ LeetCode solutions in Python
 | 704        | Binary Search                      | [Solution](problems/binary_search/binary_search.py)            | Easy       | Binary Search                |
 | 739        | Daily Temperatures                 | [Solution](problems/stack/daily_temperatures.py)               | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                          | [Solution](problems/stack/car_fleet.py)                        | Medium     | Stack, Monotonic Stack       |
+| 875        | Koko Eating Bananas                | [Solution](problems/binary_search/koko_eating_bananas.py)      | Medium     | Binary Search                |
