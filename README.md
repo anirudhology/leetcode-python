@@ -11,6 +11,7 @@ LeetCode solutions in Python
 | 15         | 3 Sum                                | [Solution](problems/array/three_sum.py)                                    | Medium     | Array, Sorting, Two Pointers |
 | 20         | Valid Parentheses                    | [Solution](problems/stack/valid_parentheses.py)                            | Easy       | Stack                        |
 | 22         | Generate Parentheses                 | [Solution](problems/stack/generate_parentheses.py)                         | Medium     | Stack, Backtracking          |
+| 33         | Search In Rotated Sorted Array       | [Solution](problems/binary_search/search_in_rotated_sorted_array.py)       | Medium     | Binary Search                |
 | 36         | Valid Sudoku                         | [Solution](problems/array/valid_sudoku.py)                                 | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                  | [Solution](problems/array/trapping_rain_water.py)                          | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                       | [Solution](problems/string/group_anagrams.py)                              | Medium     | String, Hashing              |
