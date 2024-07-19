@@ -32,3 +32,4 @@ LeetCode solutions in Python
 | 739        | Daily Temperatures                   | [Solution](problems/stack/daily_temperatures.py)                           | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                            | [Solution](problems/stack/car_fleet.py)                                    | Medium     | Stack, Monotonic Stack       |
 | 875        | Koko Eating Bananas                  | [Solution](problems/binary_search/koko_eating_bananas.py)                  | Medium     | Binary Search                |
+| 981        | Time Based Key Value Store           | [Solution](problems/binary_search/time_based_key_value_store.py)           | Medium     | Binary Search                |
