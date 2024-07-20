@@ -7,6 +7,7 @@ LeetCode solutions in Python
 | Problem ID | Problem Name                         | Solution Source                                                            | Difficulty | Tag                          |
 |------------|--------------------------------------|----------------------------------------------------------------------------|------------|------------------------------|
 | 1          | Two Sum                              | [Solution](problems/array/two_sum.py)                                      | Easy       | Array, Hashing               |
+| 4          | Median Of Two Sorted Arrays          | [Solution](problems/binary_search/median_of_two_sorted_arrays.py)          | Hard       | Binary Search                |
 | 11         | Container With Most Water            | [Solution](problems/array/container_with_most_water.py)                    | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                                | [Solution](problems/array/three_sum.py)                                    | Medium     | Array, Sorting, Two Pointers |
 | 20         | Valid Parentheses                    | [Solution](problems/stack/valid_parentheses.py)                            | Easy       | Stack                        |
