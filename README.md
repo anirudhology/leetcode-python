@@ -18,6 +18,7 @@ LeetCode solutions in Python
 | 49         | Group Anagrams                       | [Solution](problems/string/group_anagrams.py)                              | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                   | [Solution](problems/binary_search/search_a_2d_matrix.py)                   | Medium     | Binary Search                |
 | 84         | Largest Rectangle In Histogram       | [Solution](problems/stack/largest_rectangle_in_histogram.py)               | Hard       | Stack, Monotonic Stack       |
+| 121        | Best Time To Buy And Sell Stocks     | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.py)    | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                     | [Solution](problems/string/valid_palindrome.py)                            | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence         | [Solution](problems/array/longest_consecutive_sequence.py)                 | Medium     | Array, Hashing               |
 | 150        | Evaluate Reverse Polish Notation     | [Solution](problems/stack/evaluate_reverse_polish_notation.py)             | Medium     | Stack                        |
