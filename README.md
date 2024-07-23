@@ -12,6 +12,7 @@ LeetCode solutions in Python
 | 11         | Container With Most Water                      | [Solution](problems/array/container_with_most_water.py)                               | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                                          | [Solution](problems/array/three_sum.py)                                               | Medium     | Array, Sorting, Two Pointers |
 | 20         | Valid Parentheses                              | [Solution](problems/stack/valid_parentheses.py)                                       | Easy       | Stack                        |
+| 21         | Merge Two Sorted Lists                         | [Solution](problems/linked_list/merge_two_sorted_lists.py)                            | Easy       | Linked List                  |
 | 22         | Generate Parentheses                           | [Solution](problems/stack/generate_parentheses.py)                                    | Medium     | Stack, Backtracking          |
 | 33         | Search In Rotated Sorted Array                 | [Solution](problems/binary_search/search_in_rotated_sorted_array.py)                  | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                   | [Solution](problems/array/valid_sudoku.py)                                            | Medium     | Array, Hashing               |
