@@ -24,6 +24,7 @@ LeetCode solutions in Python
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.py)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](problems/string/valid_palindrome.py)                                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                   | [Solution](problems/array/longest_consecutive_sequence.py)                            | Medium     | Array, Hashing               |
+| 143        | Reorder List                                   | [Solution](problems/linked_list/reorder_list.py)                                      | Medium     | Linked List                  |
 | 150        | Evaluate Reverse Polish Notation               | [Solution](problems/stack/evaluate_reverse_polish_notation.py)                        | Medium     | Stack                        |
 | 153        | Find Minimum In Rotated Sorted Array           | [Solution](problems/binary_search/find_minimum_in_rotated_sorted_array.py)            | Medium     | Binary Search                |
 | 155        | Min Stack                                      | [Solution](problems/stack/min_stack.py)                                               | Medium     | Stack, Design                |
