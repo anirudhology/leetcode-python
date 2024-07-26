@@ -26,7 +26,7 @@ LeetCode solutions in Python
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.py)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](problems/string/valid_palindrome.py)                                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                   | [Solution](problems/array/longest_consecutive_sequence.py)                            | Medium     | Array, Hashing               |
-| 128        | Copy List With Random Pointer                  | [Solution](problems/linked_list/copy_list_with_random_pointer.py)                     | Medium     | Linked List, Hashing         |
+| 138        | Copy List With Random Pointer                  | [Solution](problems/linked_list/copy_list_with_random_pointer.py)                     | Medium     | Linked List, Hashing         |
 | 141        | Linked List Cycle                              | [Solution](problems/linked_list/linked_list_cycle.py)                                 | Easy       | Linked List, Two Pointers    |
 | 143        | Reorder List                                   | [Solution](problems/linked_list/reorder_list.py)                                      | Medium     | Linked List                  |
 | 150        | Evaluate Reverse Polish Notation               | [Solution](problems/stack/evaluate_reverse_polish_notation.py)                        | Medium     | Stack                        |
@@ -39,6 +39,7 @@ LeetCode solutions in Python
 | 239        | Sliding Window Maximum                         | [Solution](problems/sliding_window/sliding_window_maximum.py)                         | Hard       | Sliding Window, Deque        |
 | 242        | Valid Anagram                                  | [Solution](problems/string/valid_anagram.py)                                          | Easy       | String                       |
 | 271        | Encode And Decode Strings                      | [Solution](problems/string/encode_and_decode_strings.py)                              | Medium     | String                       |
+| 287        | Find The Duplicate Number                      | [Solution](problems/linked_list/find_the_duplicate_number.py)                         | Medium     | Two Pointers                 |
 | 347        | Top K Frequent Elements                        | [Solution](problems/array/top_k_frequent_elements.py)                                 | Medium     | Array, Bucket Sort           |
 | 424        | Longest Repeating Character Replacement        | [Solution](problems/sliding_window/longest_repeating_character_replacement.py)        | Medium     | Sliding Window               |
 | 567        | Permutation In String                          | [Solution](problems/sliding_window/permutation_in_string.py)                          | Medium     | Sliding Window               |
