@@ -26,6 +26,7 @@ LeetCode solutions in Python
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.py)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](problems/string/valid_palindrome.py)                                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                   | [Solution](problems/array/longest_consecutive_sequence.py)                            | Medium     | Array, Hashing               |
+| 128        | Copy List With Random Pointer                  | [Solution](problems/linked_list/copy_list_with_random_pointer.py)                     | Medium     | Linked List, Hashing         |
 | 141        | Linked List Cycle                              | [Solution](problems/linked_list/linked_list_cycle.py)                                 | Easy       | Linked List, Two Pointers    |
 | 143        | Reorder List                                   | [Solution](problems/linked_list/reorder_list.py)                                      | Medium     | Linked List                  |
 | 150        | Evaluate Reverse Polish Notation               | [Solution](problems/stack/evaluate_reverse_polish_notation.py)                        | Medium     | Stack                        |
