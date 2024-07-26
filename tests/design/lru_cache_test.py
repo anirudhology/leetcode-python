@@ -1,6 +1,6 @@
 import unittest
 
-from problems.design.lru__cache import LRUCache
+from problems.design.lru_cache import LRUCache
 
 
 class LRUCacheTest(unittest.TestCase):

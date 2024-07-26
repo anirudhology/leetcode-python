@@ -29,6 +29,7 @@ LeetCode solutions in Python
 | 138        | Copy List With Random Pointer                  | [Solution](problems/linked_list/copy_list_with_random_pointer.py)                     | Medium     | Linked List, Hashing         |
 | 141        | Linked List Cycle                              | [Solution](problems/linked_list/linked_list_cycle.py)                                 | Easy       | Linked List, Two Pointers    |
 | 143        | Reorder List                                   | [Solution](problems/linked_list/reorder_list.py)                                      | Medium     | Linked List                  |
+| 146        | LRU Cache                                      | [Solution](problems/design/lru_cache.py)                                              | Medium     | Design, Linked List          |
 | 150        | Evaluate Reverse Polish Notation               | [Solution](problems/stack/evaluate_reverse_polish_notation.py)                        | Medium     | Stack                        |
 | 153        | Find Minimum In Rotated Sorted Array           | [Solution](problems/binary_search/find_minimum_in_rotated_sorted_array.py)            | Medium     | Binary Search                |
 | 155        | Min Stack                                      | [Solution](problems/stack/min_stack.py)                                               | Medium     | Stack, Design                |
