@@ -16,6 +16,7 @@ LeetCode solutions in Python
 | 20         | Valid Parentheses                              | [Solution](problems/stack/valid_parentheses.py)                                       | Easy       | Stack                        |
 | 21         | Merge Two Sorted Lists                         | [Solution](problems/linked_list/merge_two_sorted_lists.py)                            | Easy       | Linked List                  |
 | 22         | Generate Parentheses                           | [Solution](problems/stack/generate_parentheses.py)                                    | Medium     | Stack, Backtracking          |
+| 23         | Merge K Sorted Lists                           | [Solution](problems/linked_list/merge_k_sorted_lists.py)                              | Hard       | Linked List                  |
 | 33         | Search In Rotated Sorted Array                 | [Solution](problems/binary_search/search_in_rotated_sorted_array.py)                  | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                   | [Solution](problems/array/valid_sudoku.py)                                            | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                            | [Solution](problems/array/trapping_rain_water.py)                                     | Hard       | Array, Two Pointers          |
