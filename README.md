@@ -26,6 +26,7 @@ LeetCode solutions in Python
 | 76         | Minimum Window Substring                       | [Solution](problems/sliding_window/minimum_window_substring.py)                       | Hard       | Sliding Window               |
 | 84         | Largest Rectangle In Histogram                 | [Solution](problems/stack/largest_rectangle_in_histogram.py)                          | Hard       | Stack, Monotonic Stack       |
 | 104        | Maximum Depth Of Binary Tree                   | [Solution](problems/tree/maximum_depth_of_binary_tree.py)                             | Easy       | Binary Tree, Recursion       |
+| 110        | Balanced Binary Tree                           | [Solution](problems/tree/balanced_binary_tree.py)                                     | Easy       | Binary Tree, DFS             |
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.py)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](problems/string/valid_palindrome.py)                                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                   | [Solution](problems/array/longest_consecutive_sequence.py)                            | Medium     | Array, Hashing               |
