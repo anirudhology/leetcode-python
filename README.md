@@ -45,6 +45,7 @@ LeetCode solutions in Python
 | 206        | Reverse Linked List                            | [Solution](problems/linked_list/reverse_linked_list.py)                               | Easy       | Linked List                  |
 | 217        | Contains Duplicate                             | [Solution](problems/array/contains_duplicate.py)                                      | Easy       | Array, Hashing               |
 | 226        | Invert Binary Tree                             | [Solution](problems/tree/invert_binary_tree.py)                                       | Easy       | Binary Tree, Recursion       |
+| 230        | Kth Smallest Element In A BST                  | [Solution](problems/tree/kth_smallest_element_in_a_bst.py)                            | Medium     | Binary Tree, BST, DFS        |
 | 235        | Lowest Common Ancestor Of A Binary Search Tree | [Solution](problems/tree/lowest_common_ancestor_of_a_binary_search_tree.py)           | Medium     | Binary Tree, BST             |
 | 238        | Product Of Array Except Self                   | [Solution](problems/array/product_of_array_except_self.py)                            | Medium     | Array                        |
 | 239        | Sliding Window Maximum                         | [Solution](problems/sliding_window/sliding_window_maximum.py)                         | Hard       | Sliding Window, Deque        |
