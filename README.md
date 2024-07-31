@@ -60,3 +60,4 @@ LeetCode solutions in Python
 | 853        | Car Fleet                                      | [Solution](problems/stack/car_fleet.py)                                               | Medium     | Stack, Monotonic Stack       |
 | 875        | Koko Eating Bananas                            | [Solution](problems/binary_search/koko_eating_bananas.py)                             | Medium     | Binary Search                |
 | 981        | Time Based Key Value Store                     | [Solution](problems/binary_search/time_based_key_value_store.py)                      | Medium     | Binary Search                |
+| 1448       | Count Good Nodes In Binary Tree                | [Solution](problems/tree/count_good_nodes_in_binary_tree.py)                          | Medium     | Binary Tree, DFS             |
