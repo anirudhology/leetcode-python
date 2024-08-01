@@ -32,6 +32,7 @@ LeetCode solutions in Python
 | 105        | Construct Binary Tree From Preorder And Inorder Traversal | [Solution](problems/tree/construct_binary_tree_from_preorder_and_inorder_traversal.py) | Medium     | Binary Tree, DFS             |
 | 110        | Balanced Binary Tree                                      | [Solution](problems/tree/balanced_binary_tree.py)                                      | Easy       | Binary Tree, DFS             |
 | 121        | Best Time To Buy And Sell Stocks                          | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.py)                | Easy       | Sliding Window               |
+| 124        | Binary Tree Maximum Path Sum                              | [Solution](problems/tree/binary_tree_maximum_path_sum.py)                              | Hard       | Binary Tree, DFS             |
 | 125        | Valid Palindrome                                          | [Solution](problems/string/valid_palindrome.py)                                        | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                              | [Solution](problems/array/longest_consecutive_sequence.py)                             | Medium     | Array, Hashing               |
 | 138        | Copy List With Random Pointer                             | [Solution](problems/linked_list/copy_list_with_random_pointer.py)                      | Medium     | Linked List, Hashing         |
