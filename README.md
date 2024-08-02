@@ -24,6 +24,7 @@ LeetCode solutions in Python
 | 49         | Group Anagrams                                            | [Solution](problems/string/group_anagrams.py)                                          | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                                        | [Solution](problems/binary_search/search_a_2d_matrix.py)                               | Medium     | Binary Search                |
 | 76         | Minimum Window Substring                                  | [Solution](problems/sliding_window/minimum_window_substring.py)                        | Hard       | Sliding Window               |
+| 79         | Word Search                                               | [Solution](problems/backtracking/word_search.py)                                       | Medium     | Backtracking, DFS            |
 | 84         | Largest Rectangle In Histogram                            | [Solution](problems/stack/largest_rectangle_in_histogram.py)                           | Hard       | Stack, Monotonic Stack       |
 | 98         | Validate Binary Search Tree                               | [Solution](problems/tree/validate_binary_search_tree.py)                               | Medium     | Binary Tree, BST, DFS        |
 | 100        | Same Tree                                                 | [Solution](problems/tree/same_tree.py)                                                 | Easy       | Binary Tree                  |
