@@ -46,6 +46,7 @@ LeetCode solutions in Python
 | 199        | Binary Tree Right Side View                               | [Solution](problems/tree/binary_tree_right_side_view.py)                               | Medium     | Binary Tree, BFS             |
 | 206        | Reverse Linked List                                       | [Solution](problems/linked_list/reverse_linked_list.py)                                | Easy       | Linked List                  |
 | 208        | Implement Trie                                            | [Solution](problems/trie/implement_trie.py)                                            | Medium     | Trie, Design                 |
+| 211        | Design Add And Search Words Data Structure                | [Solution](problems/trie/design_add_and_search_words_data_structure.py)                | Medium     | Trie, Design                 |
 | 217        | Contains Duplicate                                        | [Solution](problems/array/contains_duplicate.py)                                       | Easy       | Array, Hashing               |
 | 226        | Invert Binary Tree                                        | [Solution](problems/tree/invert_binary_tree.py)                                        | Easy       | Binary Tree, Recursion       |
 | 230        | Kth Smallest Element In A BST                             | [Solution](problems/tree/kth_smallest_element_in_a_bst.py)                             | Medium     | Binary Tree, BST, DFS        |
