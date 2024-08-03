@@ -22,6 +22,7 @@ LeetCode solutions in Python
 | 36         | Valid Sudoku                                              | [Solution](problems/array/valid_sudoku.py)                                             | Medium     | Array, Hashing               |
 | 39         | Combination Sum                                           | [Solution](problems/backtracking/combination_sum.py)                                   | Medium     | Backtracking                 |
 | 42         | Trapping Rain Water                                       | [Solution](problems/array/trapping_rain_water.py)                                      | Hard       | Array, Two Pointers          |
+| 46         | Permutations                                              | [Solution](problems/backtracking/permutations.py)                                      | Medium     | Permutations                 |
 | 49         | Group Anagrams                                            | [Solution](problems/string/group_anagrams.py)                                          | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                                        | [Solution](problems/binary_search/search_a_2d_matrix.py)                               | Medium     | Binary Search                |
 | 76         | Minimum Window Substring                                  | [Solution](problems/sliding_window/minimum_window_substring.py)                        | Hard       | Sliding Window               |
