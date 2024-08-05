@@ -72,6 +72,7 @@ LeetCode solutions in Python
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.py)                                   | Easy       | Binary Tree                  |
 | 572        | Subtree Of Another Tree                                   | [Solution](problems/tree/subtree_of_another_tree.py)                                   | Easy       | Binary Tree                  |
 | 567        | Permutation In String                                     | [Solution](problems/sliding_window/permutation_in_string.py)                           | Medium     | Sliding Window               |
+| 703        | Kth Largest Element In A Stream                           | [Solution](problems/heap/kth_largest_element_in_a_stream.py)                           | Easy       | Heap                         |
 | 704        | Binary Search                                             | [Solution](problems/binary_search/binary_search.py)                                    | Easy       | Binary Search                |
 | 739        | Daily Temperatures                                        | [Solution](problems/stack/daily_temperatures.py)                                       | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                                                 | [Solution](problems/stack/car_fleet.py)                                                | Medium     | Stack, Monotonic Stack       |
