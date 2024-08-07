@@ -27,6 +27,7 @@ LeetCode solutions in Python
 | 46         | Permutations                                              | [Solution](problems/backtracking/permutations.py)                                      | Medium     | Permutations                 |
 | 49         | Group Anagrams                                            | [Solution](problems/string/group_anagrams.py)                                          | Medium     | String, Hashing              |
 | 51         | N Queens                                                  | [Solution](problems/backtracking/n_queens.py)                                          | Hard       | Backtracking                 |
+| 70         | Climbing Stairs                                           | [Solution](problems/dynamic_programming/climbing_stairs.py)                            | Easy       | Dynamic Programming          |
 | 74         | Search A 2D Matrix                                        | [Solution](problems/binary_search/search_a_2d_matrix.py)                               | Medium     | Binary Search                |
 | 76         | Minimum Window Substring                                  | [Solution](problems/sliding_window/minimum_window_substring.py)                        | Hard       | Sliding Window               |
 | 78         | Subsets                                                   | [Solution](problems/backtracking/subsets.py)                                           | Medium     | Backtracking                 |
