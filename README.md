@@ -59,6 +59,7 @@ LeetCode solutions in Python
 | 208        | Implement Trie                                            | [Solution](problems/trie/implement_trie.py)                                            | Medium     | Trie, Design                 |
 | 211        | Design Add And Search Words Data Structure                | [Solution](problems/trie/design_add_and_search_words_data_structure.py)                | Medium     | Trie, Design                 |
 | 212        | Word Search II                                            | [Solution](problems/trie/word_search_ii.py)                                            | Hard       | Trie, Backtracking           |
+| 213        | House Robber II                                           | [Solution](problems/dynamic_programming/house_robber_ii.py)                            | Medium     | Dynamic Programming          |
 | 215        | Kth Largest Element In An Array                           | [Solution](problems/quick_select/kth_largest_element_in_an_array.py)                   | Medium     | Quick Select                 |
 | 217        | Contains Duplicate                                        | [Solution](problems/array/contains_duplicate.py)                                       | Easy       | Array, Hashing               |
 | 226        | Invert Binary Tree                                        | [Solution](problems/tree/invert_binary_tree.py)                                        | Easy       | Binary Tree, Recursion       |
