@@ -77,6 +77,7 @@ LeetCode solutions in Python
 | 703        | Kth Largest Element In A Stream                           | [Solution](problems/heap/kth_largest_element_in_a_stream.py)                           | Easy       | Heap                         |
 | 704        | Binary Search                                             | [Solution](problems/binary_search/binary_search.py)                                    | Easy       | Binary Search                |
 | 739        | Daily Temperatures                                        | [Solution](problems/stack/daily_temperatures.py)                                       | Medium     | Stack, Monotonic Stack       |
+| 746        | Min Cost Climbing Stairs                                  | [Solution](problems/dynamic_programming/min_cost_climbing_stairs.py)                   | Easy       | Dynamic Programming          |
 | 853        | Car Fleet                                                 | [Solution](problems/stack/car_fleet.py)                                                | Medium     | Stack, Monotonic Stack       |
 | 875        | Koko Eating Bananas                                       | [Solution](problems/binary_search/koko_eating_bananas.py)                              | Medium     | Binary Search                |
 | 973        | K Closest Points To Origin                                | [Solution](problems/heap/k_closest_points_to_origin.py)                                | Medium     | Heap                         |
