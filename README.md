@@ -73,6 +73,7 @@ LeetCode solutions in Python
 | 271        | Encode And Decode Strings                                 | [Solution](problems/string/encode_and_decode_strings.py)                               | Medium     | String                            |
 | 287        | Find The Duplicate Number                                 | [Solution](problems/linked_list/find_the_duplicate_number.py)                          | Medium     | Two Pointers                      |
 | 297        | Serialize And Deserialize Binary Tree                     | [Solution](problems/tree/serialize_and_deserialize_binary_tree.py)                     | Hard       | Binary Tree, BFS                  |
+| 322        | Coin Change                                               | [Solution](problems/dynamic_programming/coin_change.py)                                | Medium     | Dynamic Programming               |
 | 347        | Top K Frequent Elements                                   | [Solution](problems/array/top_k_frequent_elements.py)                                  | Medium     | Array, Bucket Sort                |
 | 424        | Longest Repeating Character Replacement                   | [Solution](problems/sliding_window/longest_repeating_character_replacement.py)         | Medium     | Sliding Window                    |
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.py)                                   | Easy       | Binary Tree                       |
