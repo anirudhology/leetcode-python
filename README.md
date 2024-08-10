@@ -48,6 +48,7 @@ LeetCode solutions in Python
 | 128        | Longest Consecutive Sequence                              | [Solution](problems/array/longest_consecutive_sequence.py)                             | Medium     | Array, Hashing                    |
 | 131        | Palindrome Partitioning                                   | [Solution](problems/backtracking/palindrome_partitioning.py)                           | Medium     | Backtracking                      |
 | 138        | Copy List With Random Pointer                             | [Solution](problems/linked_list/copy_list_with_random_pointer.py)                      | Medium     | Linked List, Hashing              |
+| 139        | Word Break                                                | [Solution](problems/dynamic_programming/word_break.py)                                 | Medium     | Dynamic Programming               |
 | 141        | Linked List Cycle                                         | [Solution](problems/linked_list/linked_list_cycle.py)                                  | Easy       | Linked List, Two Pointers         |
 | 143        | Reorder List                                              | [Solution](problems/linked_list/reorder_list.py)                                       | Medium     | Linked List                       |
 | 146        | LRU Cache                                                 | [Solution](problems/design/lru_cache.py)                                               | Medium     | Design, Linked List               |
