@@ -52,6 +52,7 @@ LeetCode solutions in Python
 | 143        | Reorder List                                              | [Solution](problems/linked_list/reorder_list.py)                                       | Medium     | Linked List                       |
 | 146        | LRU Cache                                                 | [Solution](problems/design/lru_cache.py)                                               | Medium     | Design, Linked List               |
 | 150        | Evaluate Reverse Polish Notation                          | [Solution](problems/stack/evaluate_reverse_polish_notation.py)                         | Medium     | Stack                             |
+| 152        | Maximum Product Subarray                                  | [Solution](problems/dynamic_programming/maximum_product_subarray.py)                   | Medium     | Dynamic Programming, Two Pointers |
 | 153        | Find Minimum In Rotated Sorted Array                      | [Solution](problems/binary_search/find_minimum_in_rotated_sorted_array.py)             | Medium     | Binary Search                     |
 | 155        | Min Stack                                                 | [Solution](problems/stack/min_stack.py)                                                | Medium     | Stack, Design                     |
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](problems/array/two_sum_ii_input_array_is_sorted.py)                         | Medium     | Array, Two Pointers               |
