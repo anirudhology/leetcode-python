@@ -59,6 +59,7 @@ LeetCode solutions in Python
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](problems/array/two_sum_ii_input_array_is_sorted.py)                         | Medium     | Array, Two Pointers               |
 | 198        | House Robber                                              | [Solution](problems/dynamic_programming/house_robber.py)                               | Medium     | Dynamic Programming               |
 | 199        | Binary Tree Right Side View                               | [Solution](problems/tree/binary_tree_right_side_view.py)                               | Medium     | Binary Tree, BFS                  |
+| 200        | Number Of Islands                                         | [Solution](problems/dfs/number_of_islands.py)                                          | Medium     | DFS                               |
 | 206        | Reverse Linked List                                       | [Solution](problems/linked_list/reverse_linked_list.py)                                | Easy       | Linked List                       |
 | 208        | Implement Trie                                            | [Solution](problems/trie/implement_trie.py)                                            | Medium     | Trie, Design                      |
 | 211        | Design Add And Search Words Data Structure                | [Solution](problems/trie/design_add_and_search_words_data_structure.py)                | Medium     | Trie, Design                      |
