@@ -85,6 +85,7 @@ LeetCode solutions in Python
 | 572        | Subtree Of Another Tree                                   | [Solution](problems/tree/subtree_of_another_tree.py)                                   | Easy       | Binary Tree                       |
 | 567        | Permutation In String                                     | [Solution](problems/sliding_window/permutation_in_string.py)                           | Medium     | Sliding Window                    |
 | 647        | Palindromic Substrings                                    | [Solution](problems/dynamic_programming/palindromic_substrings.py)                     | Medium     | Dynamic Programming, Two Pointers |
+| 695        | Max Area Of Island                                        | [Solution](problems/dfs/max_area_of_island.py)                                         | Medium     | DFS                               |
 | 703        | Kth Largest Element In A Stream                           | [Solution](problems/heap/kth_largest_element_in_a_stream.py)                           | Easy       | Heap                              |
 | 704        | Binary Search                                             | [Solution](problems/binary_search/binary_search.py)                                    | Easy       | Binary Search                     |
 | 739        | Daily Temperatures                                        | [Solution](problems/stack/daily_temperatures.py)                                       | Medium     | Stack, Monotonic Stack            |
