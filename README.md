@@ -96,5 +96,6 @@ LeetCode solutions in Python
 | 875        | Koko Eating Bananas                                       | [Solution](problems/binary_search/koko_eating_bananas.py)                              | Medium     | Binary Search                     |
 | 973        | K Closest Points To Origin                                | [Solution](problems/heap/k_closest_points_to_origin.py)                                | Medium     | Heap                              |
 | 981        | Time Based Key Value Store                                | [Solution](problems/binary_search/time_based_key_value_store.py)                       | Medium     | Binary Search                     |
+| 994        | Rotting Oranges                                           | [Solution](problems/bfs/rotting_oranges.py)                                            | Medium     | BFS                               |
 | 1046       | Last Stone Weight                                         | [Solution](problems/heap/last_stone_weight.py)                                         | Easy       | Heap                              |
 | 1448       | Count Good Nodes In Binary Tree                           | [Solution](problems/tree/count_good_nodes_in_binary_tree.py)                           | Medium     | Binary Tree, DFS                  |
