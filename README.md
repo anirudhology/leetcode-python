@@ -75,6 +75,7 @@ LeetCode solutions in Python
 | 239        | Sliding Window Maximum                                    | [Solution](problems/sliding_window/sliding_window_maximum.py)                          | Hard       | Sliding Window, Deque             |
 | 242        | Valid Anagram                                             | [Solution](problems/string/valid_anagram.py)                                           | Easy       | String                            |
 | 271        | Encode And Decode Strings                                 | [Solution](problems/string/encode_and_decode_strings.py)                               | Medium     | String                            |
+| 286        | Walls And Gates                                           | [Solution](problems/bfs/walls_and_gates.py)                                            | Medium     | BFS                               |
 | 287        | Find The Duplicate Number                                 | [Solution](problems/linked_list/find_the_duplicate_number.py)                          | Medium     | Two Pointers                      |
 | 297        | Serialize And Deserialize Binary Tree                     | [Solution](problems/tree/serialize_and_deserialize_binary_tree.py)                     | Hard       | Binary Tree, BFS                  |
 | 300        | Longest Increasing Subsequence                            | [Solution](problems/dynamic_programming/longest_increasing_subsequence.py)             | Medium     | Dynamic Programming               |
