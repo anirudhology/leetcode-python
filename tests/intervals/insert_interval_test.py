@@ -6,11 +6,11 @@ from problems.intervals.insert_interval import InsertInterval
 class TestInsertInterval(unittest.TestCase):
 
     def test_insert_empty_intervals(self):
-        intsert_interval = InsertInterval()
+        insert_interval = InsertInterval()
         intervals = []
         new_interval = [2, 5]
         expected = [[2, 5]]
-        self.assertEqual(intsert_interval.insert(intervals, new_interval), expected)
+        self.assertEqual(insert_interval.insert(intervals, new_interval), expected)
 
     def test_insert_non_overlapping_before(self):
         intsert_interval = InsertInterval()
