@@ -46,6 +46,7 @@ LeetCode solutions in Python
 | 124        | Binary Tree Maximum Path Sum                              | [Solution](problems/tree/binary_tree_maximum_path_sum.py)                              | Hard       | Binary Tree, DFS                  |
 | 125        | Valid Palindrome                                          | [Solution](problems/string/valid_palindrome.py)                                        | Medium     | String, Two Pointers              |
 | 128        | Longest Consecutive Sequence                              | [Solution](problems/array/longest_consecutive_sequence.py)                             | Medium     | Array, Hashing                    |
+| 130        | Surrounded Regions                                        | [Solution](problems/dfs/surrounded_regions.py)                                         | Medium     | DFS                               |
 | 131        | Palindrome Partitioning                                   | [Solution](problems/backtracking/palindrome_partitioning.py)                           | Medium     | Backtracking                      |
 | 133        | Clone Graph                                               | [Solution](problems/graph/clone_graph.py)                                              | Medium     | Graph, DFS                        |
 | 138        | Copy List With Random Pointer                             | [Solution](problems/linked_list/copy_list_with_random_pointer.py)                      | Medium     | Linked List, Hashing              |
