@@ -89,6 +89,7 @@ LeetCode solutions in Python
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.py)                                   | Easy       | Binary Tree                       |
 | 572        | Subtree Of Another Tree                                   | [Solution](problems/tree/subtree_of_another_tree.py)                                   | Easy       | Binary Tree                       |
 | 567        | Permutation In String                                     | [Solution](problems/sliding_window/permutation_in_string.py)                           | Medium     | Sliding Window                    |
+| 621        | Task Scheduler                                            | [Solution](problems/heap/task_scheduler.py)                                            | Medium     | Heap, Queue                       |
 | 647        | Palindromic Substrings                                    | [Solution](problems/dynamic_programming/palindromic_substrings.py)                     | Medium     | Dynamic Programming, Two Pointers |
 | 695        | Max Area Of Island                                        | [Solution](problems/dfs/max_area_of_island.py)                                         | Medium     | DFS                               |
 | 703        | Kth Largest Element In A Stream                           | [Solution](problems/heap/kth_largest_element_in_a_stream.py)                           | Easy       | Heap                              |
