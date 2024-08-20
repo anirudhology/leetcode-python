@@ -81,6 +81,7 @@ LeetCode solutions in Python
 | 242        | Valid Anagram                                             | [Solution](problems/string/valid_anagram.py)                                           | Easy       | String                            |
 | 252        | Meeting Rooms                                             | [Solution](problems/intervals/meeting_rooms.py)                                        | Easy       | Intervals, Sorting                |
 | 253        | Meeting Rooms II                                          | [Solution](problems/intervals/meeting_rooms_ii.py)                                     | Medium     | Intervals, Sorting                |
+| 261        | Graph Valid Tree                                          | [Solution](problems/graph/graph_valid_tree.py)                                         | Medium     | Graph, BFS                        |
 | 271        | Encode And Decode Strings                                 | [Solution](problems/string/encode_and_decode_strings.py)                               | Medium     | String                            |
 | 286        | Walls And Gates                                           | [Solution](problems/bfs/walls_and_gates.py)                                            | Medium     | BFS                               |
 | 287        | Find The Duplicate Number                                 | [Solution](problems/linked_list/find_the_duplicate_number.py)                          | Medium     | Two Pointers                      |
