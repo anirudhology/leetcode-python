@@ -91,6 +91,7 @@ LeetCode solutions in Python
 | 322        | Coin Change                                               | [Solution](problems/dynamic_programming/coin_change.py)                                  | Medium     | Dynamic Programming               |
 | 323        | Number Of Connected Components In An Undirected Graph     | [Solution](problems/union_find/number_of_connected_components_in_an_undirected_graph.py) | Medium     | Union Find, Graph                 |
 | 347        | Top K Frequent Elements                                   | [Solution](problems/array/top_k_frequent_elements.py)                                    | Medium     | Array, Bucket Sort                |
+| 355        | Design Twitter                                            | [Solution](problems/design/design_twitter.py)                                            | Hard       | Design, Heap                      |
 | 416        | Partition Equal Subset Sum                                | [Solution](problems/dynamic_programming/partition_equal_subset_sum.py)                   | Medium     | Dynamic Programming               |
 | 417        | Pacific Atlantic Water Flow                               | [Solution](problems/bfs/pacific_atlantic_water_flow.py)                                  | Medium     | BFS                               |
 | 424        | Longest Repeating Character Replacement                   | [Solution](problems/sliding_window/longest_repeating_character_replacement.py)           | Medium     | Sliding Window                    |
