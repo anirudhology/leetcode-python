@@ -98,6 +98,7 @@ LeetCode solutions in Python
 | 417        | Pacific Atlantic Water Flow                               | [Solution](problems/bfs/pacific_atlantic_water_flow.py)                                    | Medium     | BFS                               |
 | 424        | Longest Repeating Character Replacement                   | [Solution](problems/sliding_window/longest_repeating_character_replacement.py)             | Medium     | Sliding Window                    |
 | 435        | Non-overlapping Intervals                                 | [Solution](problems/intervals/non_overlapping_intervals.py)                                | Medium     | Intervals, Sorting                |
+| 494        | Target Sum                                                | [Solution](problems/dynamic_programming/target_sum.py)                                     | Medium     | Dynamic Programming               |
 | 518        | Coin Change II                                            | [Solution](problems/dynamic_programming/coin_change_ii.py)                                 | Medium     | Dynamic Programming               |
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.py)                                       | Easy       | Binary Tree                       |
 | 572        | Subtree Of Another Tree                                   | [Solution](problems/tree/subtree_of_another_tree.py)                                       | Easy       | Binary Tree                       |
