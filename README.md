@@ -105,6 +105,7 @@ LeetCode solutions in Python
 | 567        | Permutation In String                                     | [Solution](problems/sliding_window/permutation_in_string.py)                               | Medium     | Sliding Window                    |
 | 621        | Task Scheduler                                            | [Solution](problems/heap/task_scheduler.py)                                                | Medium     | Heap, Queue                       |
 | 647        | Palindromic Substrings                                    | [Solution](problems/dynamic_programming/palindromic_substrings.py)                         | Medium     | Dynamic Programming, Two Pointers |
+| 684        | Redundant Connection                                      | [Solution](problems/union_find/redundant_connection.py)                                    | Medium     | Union Find, Graph                 |
 | 695        | Max Area Of Island                                        | [Solution](problems/dfs/max_area_of_island.py)                                             | Medium     | DFS                               |
 | 703        | Kth Largest Element In A Stream                           | [Solution](problems/heap/kth_largest_element_in_a_stream.py)                               | Easy       | Heap                              |
 | 704        | Binary Search                                             | [Solution](problems/binary_search/binary_search.py)                                        | Easy       | Binary Search                     |
