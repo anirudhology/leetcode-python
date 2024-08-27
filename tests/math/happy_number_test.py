@@ -21,5 +21,6 @@ class TestHappyNumber(unittest.TestCase):
         # Test number with multiple digits that is not happy
         self.assertFalse(self.happy_number.isHappy(21))
 
+
 if __name__ == '__main__':
     unittest.main()
