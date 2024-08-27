@@ -135,3 +135,4 @@ LeetCode solutions in Python
 | 1143       | Longest Common Subsequence                                | [Solution](problems/dynamic_programming/longest_common_subsequence.py)                     | Medium     | Dynamic Programming                   |
 | 1448       | Count Good Nodes In Binary Tree                           | [Solution](problems/tree/count_good_nodes_in_binary_tree.py)                               | Medium     | Binary Tree, DFS                      |
 | 1851       | Minimum Interval To Include Each Query                    | [Solution](problems/intervals/minimum_interval_to_include_each_query.py)                   | Hard       | Intervals, Heap                       |
+| 2013       | Detect Squares                                            | [Solution](problems/math/detect_squares.py)                                                | Medium     | Math, Geometry                        |
