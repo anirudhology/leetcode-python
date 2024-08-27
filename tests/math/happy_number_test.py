@@ -1,6 +1,6 @@
 import unittest
 
-from problems.matrix.happy_number import HappyNumber
+from problems.math.happy_number import HappyNumber
 
 
 class TestHappyNumber(unittest.TestCase):
