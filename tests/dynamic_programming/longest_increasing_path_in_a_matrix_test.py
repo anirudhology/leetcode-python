@@ -1,6 +1,6 @@
 import unittest
 
-from problems.dynamic_programming.lonest_increasing_path_in_a_matrix import LongestIncreasingPathInAMatrix
+from problems.dynamic_programming.longest_increasing_path_in_a_matrix import LongestIncreasingPathInAMatrix
 
 
 class TestLongestIncreasingPathInAMatrix(unittest.TestCase):
